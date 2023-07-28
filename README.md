@@ -8,11 +8,11 @@ I am a student at University of South Florida.
 
 - 💡: I update new technologies, and AI tools everyday.
 
-- Take a look at my personal website [here](https://mywebleo.com)
+#### Take a look at my personal website [here](https://mywebleo.com) 🚀🚀🚀
 
 ---
 
 <div align="center">
-  <img src="img/robot.png"/>
+  <img src="img/robot.png" height = "300"/>
 </div>
 
