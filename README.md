@@ -2,7 +2,7 @@
 
 ### About Me :
 I am a student at University of South Florida. 
-- 🧰 I’m working as a AI/ML Developer and contributing to an mobile app.
+- 🧰 I’m working as a AI/ML Software Engineer.
 
 - ⚽ I love playing soccer.
 
