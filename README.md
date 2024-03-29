@@ -8,8 +8,7 @@ I am a student at University of South Florida.
 
 - 💡: I update new technologies, and AI tools everyday.
 
-### I am leading a project called [Talk To Listen](https://talktolisten.com).
-The app allows users to create their own bots, each with a unique personality and voice, by uploading a few seconds of voice audio. Users can create multiple bots in this way. Additionally, the app comes with a variety of default bots, each featuring different personalities and voices. Users have the freedom to choose and chat with any bot they prefer. There will be hundreds of default bots to choose from, and the number will grow as more users join the community and create their own bots which has their own unique personality and voice to share with the world.
+#### I am doing a project called [Talk To Listen](https://talktolisten.com). Check it out
 
 ---
 
