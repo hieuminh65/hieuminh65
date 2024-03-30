@@ -8,7 +8,7 @@ I am a student at University of South Florida.
 
 - 💡: I update new technologies, and AI tools everyday.
 
-#### I am doing a project called [Talk To Listen](https://talktolisten.com). Check it out
+#### I am doing a project called [Talk To Listen](https://github.com/Talktolisten). Check it out
 
 ---
 
