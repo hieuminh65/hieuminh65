@@ -1,14 +1,19 @@
 # Hi I’m Leo 👋 👋
 
 ### About Me :
-I am a student at University of South Florida. 
+
+I am a student at University of South Florida.
+
 - 🧰 I’m working as a AI/ML Software Engineer.
 
 - ⚽ I love playing soccer.
 
 - 💡: I update new technologies, and AI tools everyday.
 
-#### I am doing a project called [Talk To Listen](https://github.com/Talktolisten). Check it out
+#### Featured
+
+- [JobsDreamer](https://www.jobsdreamer.com): All internships on the internet in last 24 hours delivered to your inbox.
+- [Talk To Listen](https://www.talktolisten.com): Talk to life-like characters and listen to their stories.
 
 ---
 
